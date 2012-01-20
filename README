@@ -1,0 +1,3 @@
+The code behind http://www.weathermoment.com. Pull requests welcome.
+
+Display current weather information, GPS coordinates and address using HTML5 location APIs. Tested in Chrome and Safari on iOS.
